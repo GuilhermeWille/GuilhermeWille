@@ -1,4 +1,5 @@
 <img width="639" height="237" alt="Banner redes sociais " src="https://github.com/user-attachments/assets/4380e7ce-38b5-4a88-bf0c-afcaa199e02c" />
+
 # Olá, eu sou o Guilherme Wille 👋
 
 ### Desenvolvedor Backend | C# · Java · Python
