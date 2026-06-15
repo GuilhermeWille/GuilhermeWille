@@ -58,14 +58,6 @@ Aplicação de gerenciamento com CRUD completo em Java.
 
 ---
 
-## 📊 GitHub Stats
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeWille&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWille&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermewille)
