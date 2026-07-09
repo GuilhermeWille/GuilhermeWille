@@ -1,4 +1,4 @@
-<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/4380e7ce-38b5-4a88-bf0c-afcaa199e02c" />
+
 
 # Olá! Eu sou Guilherme Wille 👋
 
