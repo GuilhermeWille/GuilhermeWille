@@ -1,3 +1,4 @@
+<img width="851" height="315" alt="Banner redes sociais _20260709_121533_0000" src="https://github.com/user-attachments/assets/0d3a5fe4-63c1-4bed-9974-e99c7874bcf9" />
 
 # Olá! Eu sou Guilherme Wille 👋
 
