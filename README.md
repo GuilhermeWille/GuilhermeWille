@@ -90,14 +90,17 @@ Sistema de gestão empresarial desenvolvido para processo seletivo, utilizando a
 
 ---
 
-# 📫 Contato
+# 📬 Contato
 
-LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Wille-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermewille)
 
-Instagram
+[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeWille-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeWille)
 
-Email
+[![Instagram](https://img.shields.io/badge/Instagram-@ogw__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ogw_dev)
 
+[![Email](https://img.shields.io/badge/Email-guilhermewille.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermewille.dev@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfólio-Em%20Construção-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://guilhermewille.dev)
 ---
 
 > 💼 Disponível para oportunidades de Estágio, Desenvolvedor Júnior e Freelance.
