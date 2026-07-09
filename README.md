@@ -1,69 +1,103 @@
-<img width="639" height="237" alt="Banner redes sociais " src="https://github.com/user-attachments/assets/4380e7ce-38b5-4a88-bf0c-afcaa199e02c" />
+<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/4380e7ce-38b5-4a88-bf0c-afcaa199e02c" />
 
-# Olá, eu sou o Guilherme Wille 👋
+# Olá! Eu sou Guilherme Wille 👋
 
-### Desenvolvedor Backend | C# · Java · Python
+## Desenvolvedor de Software
+### Java • Spring Boot • C# • ASP.NET Core • Angular
 
-Desenvolvedor com foco em backend, apaixonado por arquitetura limpa e sistemas escaláveis. Trabalho principalmente com **ASP.NET Core** e **Spring Boot**, aplicando princípios **S.O.L.I.D.**, **Clean Code** e boas práticas de engenharia no dia a dia.
+Desenvolvedor de Software com foco em **Backend**, especializado na construção de APIs REST, sistemas escaláveis e aplicações modernas utilizando **Java (Spring Boot)** e **C# (ASP.NET Core)**.
+
+Também possuo experiência no desenvolvimento de interfaces com **Angular**, priorizando código limpo, arquitetura desacoplada e boas práticas como **SOLID**, **Clean Code** e **Domain-Driven Design**.
+
+Atualmente desenvolvendo projetos reais para clientes e expandindo meu portfólio com soluções voltadas para autenticação, processamento de dados e aplicações matemáticas.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+# 🚀 Stack Principal
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### Backend
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Banco de Dados
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+# 💼 Projetos em Destaque
 
-### [NexusLite](https://github.com/GuilhermeWille/NexusLite) — Sistema de Gestão Empresarial
-> C# · ASP.NET Core · Angular · Tailwind · SQLite
+## 🛡️ Authentication API *(Em desenvolvimento)*
 
-Sistema completo de gestão financeira para microempreendedores, desenvolvido em **1 semana** para processo seletivo. Arquitetura em camadas com Controllers genéricos por herança, DTOs, contratos de interface (IEntity) e APIs RESTful.
+> Java • Spring Boot • Spring Security • JWT
 
----
-
-### [GG_Store_lite](https://github.com/GuilhermeWille/GG_Store_lite) — E-commerce
-> Java
-
-Projeto de e-commerce com modelagem de dados e lógica de negócio em Java.
+API completa de autenticação utilizando JWT, Refresh Token, BCrypt, autorização baseada em papéis e boas práticas de segurança.
 
 ---
 
-### [Interpreter](https://github.com/GuilhermeWille/Interpreter) — Interpretador de Linguagem
-> C
+## 🏢 LCW Pinturas Alto Padrão
 
-Construção de um interpretador de linguagem simplificada com estruturas de dados, parsing e fundamentos de compiladores.
+🌐 https://lcwpinturas.com.br
 
----
+Angular • Tailwind CSS • Firebase
 
-### [App_Gerenciadro_Hinos](https://github.com/GuilhermeWille/App_Gerenciadro_Hinos) — Gerenciador de Hinos
-> Java
-
-Aplicação de gerenciamento com CRUD completo em Java.
+Site institucional desenvolvido para cliente real, focado em desempenho, responsividade e SEO.
 
 ---
 
-## 📬 Contato
+## 🏗️ Mavi Construções
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermewille)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ogw_dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermewille.dev@gmail.com)
+🌐 https://maviconstrucaocivil.com.br
+
+Angular • Firebase
+
+Landing page institucional desenvolvida para empresa do ramo da construção civil.
 
 ---
 
-*Disponível para oportunidades CLT — Curitiba, híbrido ou remoto.*
+## 💼 NexusLite
+
+C# • ASP.NET Core
+
+Sistema de gestão empresarial desenvolvido para processo seletivo, utilizando arquitetura em camadas, DTOs, contratos de interface e APIs REST.
+
+---
+
+## 📖 Atualmente estudando
+
+- Spring Security
+- Docker
+- Testes Automatizados
+- Microsserviços
+- Arquitetura de Software
+- Clean Architecture
+
+---
+
+# 📫 Contato
+
+LinkedIn
+
+Instagram
+
+Email
+
+---
+
+> 💼 Disponível para oportunidades de Estágio, Desenvolvedor Júnior e Freelance.
